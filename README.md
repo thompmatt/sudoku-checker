@@ -16,4 +16,4 @@ N // Where N is the number of rows and columns
 ```
 Where the first row is the number of columns and rows of the N x N Sudoku board, and the rest of the lines are the numbers (between 1 and N inclusive). If 0's are present, they represent an empty board.
 
-### Author - Matthew Thompson Soto, CS 354, Spring 2021
+### Author: Matthew Thompson Soto, CS 354, Spring 2021
