@@ -1,4 +1,4 @@
-# SudokuBoardCheck
+# Sudoku Board Checker
 This program is the very simple C program that takes a file as input and outputs whether a Sudoku board is valid or not. It uses an algorithm to compare each number to every element in its same row and columns. With this project, I practiced the following topics:
 - Fundamental C syntax
 - C arrays
